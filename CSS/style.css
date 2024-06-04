@@ -48,10 +48,10 @@ body {
   transition: 0.3s;
 }
 .navbar a:hover {
-  color: #220772;
+  color: #0333f2;
 }
 .navbar a.active {
-  color: #220772;
+  color: #ee19c3;
 }
 .home {
   display: flex;
